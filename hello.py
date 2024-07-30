@@ -1,24 +1,24 @@
-# print('hello')
-# x=5
-# print(type(x))
-# print(2**3)
-# print(7%2)
-# a=7
-# b=5
-# print(a!=b)
-# x=10
-# if x>5:
-#     print('true')
-# else:
-#     print('false')
-# y=int (input('enter a number'))
-# print(type(y))
-# print(y**2)
-# print(y+2)
-# a=input('enter your first name')
-# b=input('enter your second name')
-# print(a+" "+b)
-# print(f'your name is {a} {b}')
+print('hello')
+x=5
+print(type(x))
+print(2**3)
+print(7%2)
+a=7
+b=5
+print(a!=b)
+x=10
+if x>5:
+    print('true')
+else:
+    print('false')
+y=int (input('enter a number'))
+print(type(y))
+print(y**2)
+print(y+2)
+a=input('enter your first name')
+b=input('enter your second name')
+print(a+" "+b)
+print(f'your name is {a} {b}')
 a='hello world'
 print(a[0])
 print(a[-1])
